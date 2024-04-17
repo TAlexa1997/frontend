@@ -2,12 +2,13 @@ import React from "react";
 
 export default function Kerdesek() {
   return (
-    <div>
+    <div className="fotable">
       <thead>
         <tr>
           <div>
             <div>
               <th>#</th>
+              
               <div className="tablediv">
                 <td>1</td>
                 <td>2</td>
@@ -22,7 +23,7 @@ export default function Kerdesek() {
         <tr>
           <div>
             <div>
-              <th>#</th>
+              
               <div className="tablediv">
                 <td>1</td>
                 <td>2</td>
