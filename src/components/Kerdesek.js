@@ -5,58 +5,50 @@ export default function Kerdesek() {
     <div className="fotable">
       <thead>
         <tr>
-          <div>
-            <div>
-              <th>#</th>
-              
-              <div className="tablediv">
-                <td>1</td>
-                <td>2</td>
-                <td>3</td>
-                <td>4</td>
-              </div>
+          <div className="kerdes">
+            <th>#</th>
+
+            <div className="tablediv">
+              <td>1</td>
+              <td>2</td>
+              <td>3</td>
+              <td>4</td>
             </div>
           </div>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <div>
-            <div>
-              
-              <div className="tablediv">
-                <td>1</td>
-                <td>2</td>
+          <div className="kerdes">
+          <th>#</th>
+            <div className="tablediv">
+              <td>1</td>
+              <td>2</td>
 
-                <td>3</td>
-                <td>4</td>
-              </div>
+              <td>3</td>
+              <td>4</td>
             </div>
           </div>
         </tr>
         <tr>
-          <div>
-            <div>
-              <th>#</th>
-              <div className="tablediv">
-                <td>1</td>
-                <td>2</td>
-                <td>3</td>
-                <td>4</td>
-              </div>
+          <div className="kerdes">
+          <th>#</th>
+            <div className="tablediv">
+              <td>1</td>
+              <td>2</td>
+              <td>3</td>
+              <td>4</td>
             </div>
           </div>
         </tr>
         <tr>
-          <div>
-            <div>
-              <th>#</th>
-              <div className="tablediv">
-                <td>1</td>
-                <td>2</td>
-                <td>3</td>
-                <td>4</td>
-              </div>
+          <div className="kerdes">
+            <th>#</th>
+            <div className="tablediv">
+              <td>1</td>
+              <td>2</td>
+              <td>3</td>
+              <td>4</td>
             </div>
           </div>
         </tr>
